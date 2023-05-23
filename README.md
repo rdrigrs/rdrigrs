@@ -10,13 +10,13 @@
   3. Espanhol (beginner) "Portunhol"
 
 💻Programming:
-  💻 Languages:
+  - 💻 Languages:
     - Java (beginner)
     - Python (beginner)
     - C/C++ (beginner)
-  📃 Markup Languages:
+  - 📃 Markup Languages:
     - HTML (beginner)
     - CSS (beginner)
-  ✂ Frameworks:
+  - ✂ Frameworks:
     - Bootstrap (beginner)
   
