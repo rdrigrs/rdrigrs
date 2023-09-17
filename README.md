@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @R0dr1g0RS
+- 🌱 I'm currently graduating in Computer Science
 - 👀 I’m interested in software development
-- 🌱 I'm currently learning Java
-- ✨ I'm studying to develop back-ends
 - 🧠 I speak english on a good level(B1/B2), and I'm improving it
 
 👅Languages:
