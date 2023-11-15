@@ -10,6 +10,7 @@
 
 💻Programming:
   - 💻 Languages:
+    - Kotlin (beginner)
     - Java (beginner)
     - Python (beginner)
     - C/C++ (beginner)
