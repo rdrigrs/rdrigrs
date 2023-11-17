@@ -14,6 +14,7 @@
     - Java (beginner)
     - Python (beginner)
     - C/C++ (beginner)
+    - OCaml (beginner)
   - 📃 Markup Languages:
     - HTML (beginner)
     - CSS (beginner)
