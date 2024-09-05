@@ -21,17 +21,12 @@ Curso Ciência da Computação na Universidade Federal do Ceará (UFC), para apr
 
 ## 🖥 Ferramentas
 
-[Kotlin](https://img.shields.io/badge/Kotlin-8B008B?&style=for-the-badge&logo=kotlin&logoColor=FF00FF)
-
-[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-[C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-
-[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- Python
+- Javascript
+- Kotlin
+- Java
+- PostgreeSQL
+- MongoDB
 
 ## 👅 Idiomas
 
