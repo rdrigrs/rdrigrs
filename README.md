@@ -9,9 +9,6 @@ Curso Ciência da Computação na Universidade Federal do Ceará (UFC), para apr
 
 [linkedin](https://www.linkedin.com/in/rrsantos2004/)
 
-[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dr1g0RS)
-
-
 ## 🧠 Habilidades
 
 - Trabalho em equipe;
