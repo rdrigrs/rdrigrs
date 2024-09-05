@@ -1,17 +1,7 @@
 
 # Olá, eu sou o Rodrigo Rodrigues! 👋
 
-Curso Ciência da Computação na Universidade Federal do Ceará (UFC), para aprimorar minhas qualificações de desenvolvedor de software, pretendo ainda me tornar um arquiteto de software. Ao longo da minha carreira tive  a oportunidade de trabalhar com linguagens de programação como Python, C/C++, Java, Kotlin e OCaml, além de linguagens de marcação como HTML5 e CSS, e o framework para FrontEnd Bootstrap.
-
-Atualmente, faço parte do Programa de Educação Tutorial do Curso de Ciência da Computação da UFC (PET Computação - UFC), onde realizamos eventos voltados para a comunidade acadêmica visando a divulgação científica e aproximação das empresas com os alunos do curso, além disso, nós do PET Computação organizamos anualmente a Olimpíada Cearense de Informática (OCI), que aborda conhecimentos de matemática, combinatória, reconhecimento de padrões, computação e programação.
-
-Antes disso, atuei como Monitor no Curso Extensivo de Desenvolvimento de Jogos do Centro Cultural do Bom Jardim (CCBJ), com ênfase em Godot, onde auxiliei alunos e professores durante as aulas, além de ter gerado relatórios mensais sobre o desenvolvimento das aulas e dos alunos.
-
-Voluntariamente dedico parte do meu tempo em uma organização sem fins lucrativos, contatando todo tipo de pessoa para oferecer apoio emocional e moral, na forma de conversa e ensino.
-
-Busco oportunidades de estágio desafiadoras para continuar desenvolvendo minhas habilidades em Desenvolvimento de Softwares. Estou interessado em colaborar com equipes inovadoras e contribuir para o crescimento sustentável de empresas visionárias.
-
-Estou aberto a oportunidades de networking e colaboração. Se você compartilha interesses na área de Desenvolvimento de Softwares, ficarei feliz em conectar e trocar ideia
+Curso Ciência da Computação na Universidade Federal do Ceará (UFC), para aprimorar minhas qualificações de desenvolvedor de software, pretendo ainda me tornar um arquiteto de software. Ao longo da minha carreira tive  a oportunidade de trabalhar com linguagens de programação como Python, Javascript, C/C++, Java, Kotlin e OCaml, além de linguagens de marcação como HTML5 e CSS.
 
 
 ## 🔗 Links
