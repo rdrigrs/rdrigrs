@@ -20,10 +20,10 @@ Desenvolvedor Backend, curso Ciência da Computação na Universidade Federal do
 
 ## 🖥 Ferramentas
 
+- Java
 - Python
 - Javascript
 - Kotlin
-- Java
 - PostgreeSQL
 - MongoDB
 - HTML
