@@ -1,4 +1,3 @@
-
 ## 👋 Olá! Eu sou o Rodrigo Rodrigues
 
 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC)  
