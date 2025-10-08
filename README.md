@@ -63,7 +63,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdrigrs&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/rdrigrs">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdrigrs&theme=tokyonight&hide_border=true&area=true&custom_title=Rodrigo's%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff" alt="Contribution Graph" />
+  </a>
 </div>
 
 ## 🤝 Connect with Me
