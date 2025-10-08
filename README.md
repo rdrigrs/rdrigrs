@@ -49,7 +49,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdrigrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrigrs&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&exclude=jupyter%20notebook" alt="Top Languages" />
+  <a href="https://github.com/rdrigrs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdrigrs&hide=jupyter%20notebook,html,css&theme=tokyonight&show_icons=true&layout=compact" alt="Rodrigo's Top Languages" />
+  </a>
 </div>
 
 ## 🏆 GitHub Trophies
