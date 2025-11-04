@@ -28,9 +28,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### E-commerce & Testing
+### E-commerce
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,11 +38,10 @@
 
 ## 🌱 Currently Learning
 
-- 🧪 **Automated Testing** with Cypress
-- 🔄 **CI/CD** and DevOps practices
-- ⚡ **Node.js** and modern backend frameworks
+- 💎 **Ruby on Rails** application development and API design
+- 🧩 **Active Record** modeling and database optimization
+- 🚀 **Rails deployment** and performance tuning
 - 🏪 **Shopify** store maintenance and optimization
-- ☁️ **Cloud technologies** and deployment strategies
 
 ## 📊 GitHub Stats
 
