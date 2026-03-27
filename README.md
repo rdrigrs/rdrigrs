@@ -42,29 +42,6 @@
 - 🚀 **Rails deployment** and performance tuning
 - 🏪 **Shopify** store maintenance and optimization
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdrigrs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <a href="https://github.com/rdrigrs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdrigrs&hide=jupyter%20notebook,html,css&theme=tokyonight&show_icons=true&layout=compact" alt="Rodrigo's Top Languages" />
-  </a>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rdrigrs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/rdrigrs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdrigrs&theme=tokyonight&hide_border=true&area=true&custom_title=Rodrigo's%20Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff" alt="Contribution Graph" />
-  </a>
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
